@@ -1,0 +1,370 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "name": "Wireless Bluetooth Headphones A1",
+      "description": "Over-ear headphones with noise-cancellation and 20-hour battery life.",
+      "price": 99.99,
+      "rating": 4.5,
+      "image": "/images/1.jpg",
+      "category": "Headphones"
+    },
+    {
+      "id": "2",
+      "name": "Sports Earbuds B2",
+      "description": "Sweat-proof earbuds with secure fit and 8 hours playback.",
+      "price": 49.99,
+      "rating": 4.1,
+      "image": "/images/2.jpg",
+      "category": "Headphones"
+    },
+    {
+      "id": "3",
+      "name": "Studio Monitor Headphones C3",
+      "description": "Professional headphones for mixing and mastering audio.",
+      "price": 149.99,
+      "rating": 4.7,
+      "image": "/images/3.jpg",
+      "category": "Headphones"
+    },
+    {
+      "id": "4",
+      "name": "Noise-Isolating Earbuds D4",
+      "description": "In-ear earbuds with superior noise isolation.",
+      "price": 29.99,
+      "rating": 4,
+      "image": "/images/4.jpg",
+      "category": "Headphones"
+    },
+    {
+      "id": "5",
+      "name": "Gaming Headset E5",
+      "description": "Comfortable headset with surround sound for gaming.",
+      "price": 79.99,
+      "rating": 4.3,
+      "image": "/images/5.jpg",
+      "category": "Headphones"
+    },
+    {
+      "id": "6",
+      "name": "Wireless Over-Ear Headphones F6",
+      "description": "High fidelity wireless headphones with deep bass.",
+      "price": 129.99,
+      "rating": 4.4,
+      "image": "/images/6.jpg",
+      "category": "Headphones"
+    },
+    {
+      "id": "7",
+      "name": "Earphones G7",
+      "description": "Lightweight neckband earphones with long battery life.",
+      "price": 39.99,
+      "rating": 4.2,
+      "image": "/images/7.jpg",
+      "category": "Headphones"
+    },
+    {
+      "id": "8",
+      "name": "Kids Wireless Headphones H8",
+      "description": "Safe volume-limiting headphones designed for kids.",
+      "price": 35.99,
+      "rating": 4.1,
+      "image": "/images/8.jpg",
+      "category": "Headphones"
+    },
+    {
+      "id": "9",
+      "name": "Noise Cancelling Headphones I9",
+      "description": "Active noise cancelling with comfortable ear cushions.",
+      "price": 199.99,
+      "rating": 4.8,
+      "image": "/images/9.jpg",
+      "category": "Headphones"
+    },
+    {
+      "id": "10",
+      "name": "Wireless Sports Headphones J10",
+      "description": "Sweat-resistant headphones with secure fit for workouts.",
+      "price": 59.99,
+      "rating": 4.3,
+      "image": "/images/10.jpg",
+      "category": "Headphones"
+    },
+    {
+      "id": "11",
+      "name": "Smartphone X100 Pro",
+      "description": "6.7-inch OLED, triple camera, 5G.",
+      "price": 799.99,
+      "rating": 4.7,
+      "image": "/images/11.webp",
+      "category": "Phones"
+    },
+    {
+      "id": "12",
+      "name": "Smartphone Z200 Lite",
+      "description": "Compact design, dual camera, 4G.",
+      "price": 399.99,
+      "rating": 4.3,
+      "image": "/images/22.jpg",
+      "category": "Phones"
+    },
+    {
+      "id": "13",
+      "name": "Flip Phone Classic 3",
+      "description": "Stylish flip phone with long battery life.",
+      "price": 149.99,
+      "rating": 4,
+      "image": "/images/33.webp",
+      "category": "Phones"
+    },
+    {
+      "id": "14",
+      "name": "Smartphone Y50 Ultra",
+      "description": "Large display with quad camera and 128GB storage.",
+      "price": 699.99,
+      "rating": 4.5,
+      "image": "/images/44.jpg",
+      "category": "Phones"
+    },
+    {
+      "id": "15",
+      "name": "Budget Smartphone V20",
+      "description": "Affordable smartphone with decent specs.",
+      "price": 199.99,
+      "rating": 4.1,
+      "image": "/images/55.jpg",
+      "category": "Phones"
+    },
+    {
+      "id": "16",
+      "name": "Gaming Phone GP11",
+      "description": "High refresh rate display and enhanced cooling.",
+      "price": 899.99,
+      "rating": 4.6,
+      "image": "/images/66.jpg",
+      "category": "Phones"
+    },
+    {
+      "id": "17",
+      "name": "Rugged Phone XT Pro",
+      "description": "Shockproof and waterproof smartphone for tough environments.",
+      "price": 349.99,
+      "rating": 4.2,
+      "image": "/images/77.jpeg",
+      "category": "Phones"
+    },
+    {
+      "id": "18",
+      "name": "Smartphone M5 Mini",
+      "description": "Compact phone with great camera and battery.",
+      "price": 299.99,
+      "rating": 4,
+      "image": "/images/8.jpg",
+      "category": "Phones"
+    },
+    {
+      "id": "19",
+      "name": "Running Shoes X1",
+      "description": "Lightweight running shoes with breathable mesh and cushioned sole.",
+      "price": 89.99,
+      "rating": 4.4,
+      "image": "/images/111.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "20",
+      "name": "Casual Sneakers Y2",
+      "description": "Stylish sneakers suitable for everyday wear.",
+      "price": 59.99,
+      "rating": 4.2,
+      "image": "/images/222.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "21",
+      "name": "Hiking Boots Z3",
+      "description": "Durable boots with ankle support and waterproof material.",
+      "price": 129.99,
+      "rating": 4.6,
+      "image": "/images/333.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "22",
+      "name": "Leather Formal Shoes A4",
+      "description": "Elegant leather shoes perfect for business and formal events.",
+      "price": 109.99,
+      "rating": 4.3,
+      "image": "/images/444.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "23",
+      "name": "Slip-On Loafers B5",
+      "description": "Comfortable slip-on loafers with anti-slip sole.",
+      "price": 69.99,
+      "rating": 4.1,
+      "image": "/images/555.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "24",
+      "name": "Smartwatch S1",
+      "description": "Touchscreen smartwatch with fitness tracking and notifications.",
+      "price": 149.99,
+      "rating": 4.4,
+      "image": "/images/1e.avif",
+      "category": "Accessories"
+    },
+    {
+      "id": "25",
+      "name": "Leather Wallet L2",
+      "description": "Compact leather wallet with RFID blocking technology.",
+      "price": 39.99,
+      "rating": 4.2,
+      "image": "/images/2e.jpeg",
+      "category": "Accessories"
+    },
+    {
+      "id": "26",
+      "name": "Sunglasses U3",
+      "description": "Polarized sunglasses with UV protection and sleek design.",
+      "price": 59.99,
+      "rating": 4.5,
+      "image": "/images/3e.webp",
+      "category": "Accessories"
+    },
+    {
+      "id": "27",
+      "name": "Backpack T4",
+      "description": "Spacious and durable backpack with multiple compartments.",
+      "price": 79.99,
+      "rating": 4.3,
+      "image": "/images/4e.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": "28",
+      "name": "Fitness Band F5",
+      "description": "Lightweight fitness band for tracking activity and sleep.",
+      "price": 49.99,
+      "rating": 4.1,
+      "image": "/images/5e.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": "29",
+      "name": "The Art of Thinking Clearly",
+      "description": "A book about cognitive biases and logical thinking.",
+      "price": 14.99,
+      "rating": 4.6,
+      "image": "/images/b1.png",
+      "category": "books"
+    },
+    {
+      "id": "30",
+      "name": "Atomic Habits",
+      "description": "Practical strategies to form good habits and break bad ones.",
+      "price": 19.99,
+      "rating": 4.8,
+      "image": "/images/b2.jpg",
+      "category": "books"
+    },
+    {
+      "id": "31",
+      "name": "Sapiens history",
+      "description": "An exploration of human history and evolution.",
+      "price": 22.99,
+      "rating": 4.7,
+      "image": "/images/b3.webp",
+      "category": "books"
+    },
+    {
+      "id": "32",
+      "name": "The Subtle Art of Not Giving a F*ck",
+      "description": "A counterintuitive approach to living a good life.",
+      "price": 17.99,
+      "rating": 4.5,
+      "image": "/images/b4.jpeg",
+      "category": "books"
+    },
+    {
+      "id": "33",
+      "name": "Educated: A Memoir",
+      "description": "A memoir about a woman who grows up in a survivalist family and pursues education.",
+      "price": 18.99,
+      "rating": 4.6,
+      "image": "/images/b5.jpg",
+      "category": "books"
+    },
+    {
+      "id": "34",
+      "name": "Non-Stick Frying Pan",
+      "description": "Durable non-stick pan for everyday cooking.",
+      "price": 24.99,
+      "rating": 4.3,
+      "image": "/images/c1.jpg",
+      "category": "Cuisine Materials"
+    },
+    {
+      "id": "35",
+      "name": "Stainless Steel Knife Set",
+      "description": "Professional kitchen knife set with ergonomic handles.",
+      "price": 49.99,
+      "rating": 4.5,
+      "image": "/images/c2.avif",
+      "category": "Cuisine Materials"
+    },
+    {
+      "id": "36",
+      "name": "Cutting Board Set",
+      "description": "Multi-color cutting boards for vegetables, meat, and fruits.",
+      "price": 19.99,
+      "rating": 4.2,
+      "image": "/images/c3.webp",
+      "category": "Cuisine Materials"
+    },
+    {
+      "id": "37",
+      "name": "Mixing Bowls",
+      "description": "Set of stainless steel mixing bowls with lids.",
+      "price": 34.99,
+      "rating": 4.4,
+      "image": "/images/c4.jpg",
+      "category": "Cuisine Materials"
+    },
+    {
+      "id": "38",
+      "name": "Measuring Cups and Spoons Set",
+      "description": "Complete set for precise ingredient measurement.",
+      "price": 14.99,
+      "rating": 4.6,
+      "image": "/images/c5.jpg",
+      "category": "Cuisine Materials"
+    },
+    {
+      "id": "bdbe"
+    },
+    {
+      "id": "e311"
+    },
+    {
+      "id": "e349",
+      "name": "AirPods",
+      "category": "headphones",
+      "description": "good headphones",
+      "price": "122.09",
+      "rating": "3.9",
+      "image": "C:\\fakepath\\Screenshot 2025-05-02 131545.png"
+    },
+    {
+      "id": "7519",
+      "name": "AirPods",
+      "category": "headphones",
+      "description": "good headphones",
+      "price": "122.09",
+      "rating": "4.9",
+      "image": "C:\\fakepath\\WhatsApp Image 2024-11-10 à 14.41.31_d691621b.jpg"
+    }
+  ]
+}
