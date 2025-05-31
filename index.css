@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ul.hidden.md\:flex.flex-row.gap-6.justify-end.mr-4 {
+    margin-top: -46px;
+}@media (min-width: 768px) {
+    .md\:flex {
+        display: flex
+;
+        margin-top: -44px;
+    }
+}
+.md\:flex.flex-row.gap-2.mb-2.hidden {
+    justify-content: end;
+    margin-top: -49px;
+    margin-right: 20px;
+}header.header {
+    margin-top: -15px;
+}.fixed.border-2.bg-white.shadaw.z-50.flex.flex-col.justify-center {
+    margin-left: -49rem;
+}
